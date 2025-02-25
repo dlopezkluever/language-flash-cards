@@ -1,0 +1,21 @@
+You knew the following terms: (German Term: English Term)
+
+musst: must
+rein: pure
+arbeite: work
+minuten: minutes
+darf: may
+schau: look
+kamen: came
+kaffee: coffee
+bezahlt: paid
+teil: part
+ 
+You didn't know the following terms: (German Term: English Term)
+
+meinst: mean
+seinem: his
+dazu: in addition
+gestorben: died
+sonst: otherwise
+jemand: someone
