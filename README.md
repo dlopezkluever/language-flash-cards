@@ -1,3 +1,4 @@
+**language-flash-cards**
 A simple desktop application that tests the user's knowledge on the most commonly used vocabulary of a langauge they are trying to learn.
 
 Default Set to German. 
